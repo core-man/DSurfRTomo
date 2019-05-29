@@ -1,5 +1,12 @@
+Direct surface wave radial anisotropy tomography code
+
+please refer to:
+Hu, S., H. Yao, and H. Huang (2019), Direct surface wave radial anisotropy tomography in the crust of the eastern Himalayan syntaxis. Submitted
+
+#############
+
 2019/05/18
-The code may still need further modification  
+The code may still need minor modification  
 ##############
 
 output is 
