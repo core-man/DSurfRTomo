@@ -1,4 +1,4 @@
-Direct surface wave radial anisotropy tomography code
+Direct surface wave radial anisotropy tomography code (DSurfRTomo)
 
 please refer to:
 
