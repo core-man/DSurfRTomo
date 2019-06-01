@@ -1,4 +1,4 @@
-Direct surface wave radial anisotropy tomography code (DSurfRTomo)
+Direct surface wave radial anisotropy tomography package (DSurfRTomo)
 
 please refer to:
 
@@ -8,6 +8,10 @@ please refer to:
 
 for details of the code
 
+The dispersion data (ALLR.dat for Rayleigh wave 
+and ALLT.dat for Love wave), resulting model (DSurfRTomo.inMeasurement.dat) 
+in the crust of the eastern Himalayan syntaxis is given in example/
+
 #############
 
 2019/05/18
@@ -15,7 +19,7 @@ The code may still need minor modification
 
 ##############
 
-output is 
+output (default DSurfRTomo.inMeasure.dat) is in the format
 	: lon lat dep vsv gamma
 
 For visualization,
@@ -25,3 +29,6 @@ using the following equaitons:
 1.	vs=vsv*(1+gamma)/2.0
 
 2.	xi=2*(gamma-1)/(gamma+1)*100
+
+
+##############
