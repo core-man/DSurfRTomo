@@ -10,7 +10,7 @@ for details of the code
 
 The dispersion data (ALLR.dat for Rayleigh wave 
 and ALLT.dat for Love wave), resulting model (DSurfRTomo.inMeasurement.dat) 
-in the crust of the eastern Himalayan syntaxis is given in example/
+in the crust of the eastern Himalayan syntaxis is provided in example/
 
 #############
 
